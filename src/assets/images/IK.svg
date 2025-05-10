@@ -1,0 +1,16 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="8.88889" fill="white"/>
+  
+  <!-- Letter I (replacing H) -->
+  <path d="M11 30H8V16.6H11V30Z" fill="url(#paint0_linear_1545_39)"/>
+  
+  <!-- Letter K -->
+  <path d="M20 30H17V16.6H20V23.5L25.5 16.6H29L23.5 23.5L29.5 30H25.5L20 23.5V30Z" fill="url(#paint0_linear_1545_39)"/>
+  
+  <defs>
+    <linearGradient id="paint0_linear_1545_39" x1="8" y1="35.5" x2="38.0109" y2="10.5484" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#989FFF"/>
+      <stop offset="1" stop-color="#29A2FF"/>
+    </linearGradient>
+  </defs>
+</svg>
